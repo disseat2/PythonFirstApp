@@ -1,0 +1,103 @@
+names = ['John', 'Bod', 'Mosh', 'Sarah', 'Mary']
+
+
+print(names[-2]) - ?
+
+
+print(names[2:]) - ?
+
+print(names[2:4]) - ?
+
+
+matrix = [
+
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9]	
+]
+
+print(matrix[0]) - ?
+
+print(matrix[0][1]) - ?
+
+
+numbers = [5, 3, 7, 4]
+
+numbers.append(20)
+
+print(numbers) - ?
+
+
+numbers.insert(0, 9)
+
+print(numbers) - ?
+
+
+numbers.remove(3)
+
+print(numbers) - ?
+
+
+numbers.pop()
+
+print(numbers) - ?
+
+
+print(50 in numbers) - ?
+
+
+numbers.sort()
+
+print(numbers) - ?
+
+
+numbers.reverse()
+
+print(numbers) - ?
+
+
+Write a program to remove the duplicates in a list
+
+
+numbers = (1, 2, 3) tuple
+
+numbers[0] = 10
+
+print(numbers[0]) - ?
+
+
+coordinates = (1, 2, 3)
+
+x, y, z = coordinates
+
+print(y) - ?
+
+
+customer = {
+
+  "name": "John Smith",
+  "age": 30,
+  "is_verified": True
+
+}
+
+print(customer["age"] - ?
+
+
+def greet_user():
+	print('Hi there!')
+	print('Welcome aboard')
+
+greet_user() - ?
+
+
+def greet_user(name):
+	print(f'Hi {name}!')
+	print('Welcome aboard')
+
+greet_user("John") - ?
+
+
+Write a function: calculate(4, 5) -> 9
+
+
